@@ -1,11 +1,11 @@
 $(document).ready(function() {
 	const debuffs = {
-		"flare": 	"https://i.imgur.com/5vYRbXd.png",
-		"aero": 	"https://i.imgur.com/LaADLBr.png",
-		"eruption": "https://i.imgur.com/83xRLXp.png",
-		"gaze": 	"https://i.imgur.com/QS1vXP1.png",
-		"blizzard": "https://i.imgur.com/0zL9Nc6.png",
-		"stack": 	"https://i.imgur.com/CqIpg8G.png"
+		"flare": 	"https://i.imgur.com/KJ6iWve.png",
+		"aero": 	"https://i.imgur.com/SpCsT7j.png",
+		"eruption": "https://i.imgur.com/kZhLgE0.png",
+		"gaze": 	"https://i.imgur.com/xo96AgG.png",
+		"blizzard": "https://i.imgur.com/dOo4PSf.png",
+		"stack": 	"https://i.imgur.com/BKJI9zh.png"
 	};
 
 	const sequences_1 = [
